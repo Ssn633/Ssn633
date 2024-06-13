@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Swamynath and I'm a data enthusiast, from India.</h2>
+<h2 align="left">Hi 👋! I am Swamynath and I'm a data enthusiast, from India.</h2>
 
-###
 
+<h3 align="left">Languages and Tools :</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -37,8 +37,8 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ssn633/Ssn633/output/snake.svg" alt="Snake animation" />
+<hr>
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ssn633/Ssn633/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
