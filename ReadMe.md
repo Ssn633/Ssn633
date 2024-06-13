@@ -41,3 +41,9 @@
 <img src="https://raw.githubusercontent.com/Ssn633/Ssn633/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Ssn633&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
